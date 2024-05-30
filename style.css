@@ -1,0 +1,41 @@
+@import '../Personal_site/style.css';
+*/{
+
+}
+
+/* .container{}*/
+
+/* xs */
+@media (min-with:475px) {}
+
+/* sm */
+@media (min-with:640px) {}
+
+/* md */
+@media (min-with:768px) {}
+
+/* xL */
+@media (min-with:1024px) {}
+
+/* 2xL */
+@media (min-with:1280px) {}
+
+/* xs */
+@media (min-with:1536px) {}
+
+
+
+
+
+
+
+
+html body {
+    background-color: green;
+    font-size: 16px;
+    font-family: monospace;
+
+}
+h1{
+    font-size: 75px;
+}
